@@ -113,7 +113,7 @@ function App() {
                 <a href="https://linkedin.com/in/eliobotas" className="contact-button" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-linkedin"></i> LinkedIn
                 </a>
-                <a href="https://github.com/eliobotas" className="contact-button" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/e-boot" className="contact-button" target="_blank" rel="noopener noreferrer">
                   <i className="fab fa-github"></i> GitHub
                 </a>
               </div>
